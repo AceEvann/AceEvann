@@ -2,8 +2,16 @@
 
 <br/>
 
-- 🔭 Looking out for work opportunities.
-- 🌱 Learning the Udemy course The Complete 2024 Web Development Bootcamp by Dr. Angela.
+- 🔭 Procurando oportunidades de trabalho. Atualmente lecionando como monitor de TI no Centro de Ensino Unificado de Brasília.
+- 🌱 Estou estudando o Ciência da Computação e inclinado para Web e Front-End.
+- 😄 Pronouns: He/Him
+
+#
+
+<br/>
+
+- 🔭 Looking out for job opportunities. Currently working as an IT monitor at the Unified Education Center of Brasília.
+- 🌱 I'm studying Computer Science and leaning towards Web and Front-End.
 - 😄 Pronouns: He/Him
 
 <br/>
