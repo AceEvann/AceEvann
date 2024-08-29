@@ -2,15 +2,15 @@
 
 <br/>
 
-- 🔭 Procurando oportunidades de trabalho. Atualmente lecionando como monitor de TI no Centro de Ensino Unificado de Brasília.
-- 🌱 Estou estudando o Ciência da Computação e inclinado para Web e Front-End.
-- 😄 Pronouns: He/Him
+- 🔭 Procurando oportunidades de trabalho. Atualmente lecionando como monitor de TI no CEUB.
+- 🌱 Estou estudando Ciência da Computação e inclinado para Web e Front-End.
+- 😄 Pronomes: Ele/Dele
 
 #
 
 <br/>
 
-- 🔭 Looking out for job opportunities. Currently working as an IT monitor at the Unified Education Center of Brasília.
+- 🔭 Looking out for job opportunities. Currently working as an IT monitor at the CEUB.
 - 🌱 I'm studying Computer Science and leaning towards Web and Front-End.
 - 😄 Pronouns: He/Him
 
