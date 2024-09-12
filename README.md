@@ -40,10 +40,3 @@
   <a href="https://www.instagram.com/ace__evan/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/ace_evan_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
 </div>
-
-<br/>
-<br/>
-
-<div align="center">
-  <img alaing=center alt="totoro" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06a22446366801.5851795421436.gif" />
-</div>
