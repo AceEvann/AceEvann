@@ -1,6 +1,6 @@
 # Hi! I'm Christian Viana, but you can call me Ace 😁✨
 
-<br/>
+<br />
 
 - 🔭 Procurando oportunidades de trabalho. Atualmente lecionando como monitor de TI no CEUB.
 - 🌱 Estou estudando Ciência da Computação e inclinado para Web e Front-End.
@@ -8,20 +8,20 @@
 
 #
 
-<br/>
+<br />
 
 - 🔭 Looking out for job opportunities. Currently working as an IT monitor at the CEUB.
 - 🌱 I'm studying Computer Science and leaning towards Web and Front-End.
 - 😄 Pronouns: He/Him
 
-<br/>
+<br />
 
 <div align="center">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=AceEvann&show_icons=true&theme=slateorange"/>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aceevann&layout=compact&langs_count=16&theme=slateorange"/>
 </div>
 
-<br/>
+<br />
 
 <div align="center" style="display: inline_block">
   <img align="center" alt="py" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
