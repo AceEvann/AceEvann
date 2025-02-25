@@ -1,10 +1,11 @@
 # Hi! I'm Christian Viana, but you can call me Ace 😁✨
 
-<p>
+<br />
+
 - 🔭 Procurando oportunidades de trabalho. Atualmente lecionando como monitor de TI no CEUB.
 - 🌱 Estou estudando Ciência da Computação e inclinado para Web e Front-End.
 - 😄 Pronomes: Ele/Dele
-</p>
+
 #
 
 <br />
