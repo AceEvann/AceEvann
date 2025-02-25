@@ -1,4 +1,4 @@
-# Olá! Me chamo Christian, mas pode me chamar de Ace 😁✨
+# Olá! Sou o Christian, mas pode me chamar de Ace 😁✨
 
 <br />
 
