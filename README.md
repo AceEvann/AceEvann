@@ -1,4 +1,4 @@
-# Hi! I'm Christian Viana, but you can call me Ace 😁✨
+# Olá! Me chamo Christian, mas pode me chamar de Ace 😁✨
 
 <br />
 
@@ -6,7 +6,11 @@
 - 🌱 Estou estudando Ciência da Computação e inclinado para Web e Front-End.
 - 😄 Pronomes: Ele/Dele
 
+<br />
+
 #
+
+# Hi! I'm Christian, but you can call me Ace 😁✨
 
 <br />
 
