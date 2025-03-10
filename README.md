@@ -17,8 +17,8 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AceEvann&show_icons=true&layout=compact&card_width=280&langs_count=5&theme=slateorange&hide_border=false&order=2" height="180cm" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AceEvann&locale=en&hide_title=false&layout=compact&card_width=180&langs_count=5&theme=slateorange&hide_border=false&order=2" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AceEvann&show_icons=true&layout=compact&card_width=380&langs_count=5&theme=slateorange&hide_border=false&order=2" height="180cm" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AceEvann&locale=en&hide_title=false&layout=compact&card_width=380&langs_count=5&theme=slateorange&hide_border=false&order=2" height="180" alt="languages graph" />
 </div>
 
 <br />
